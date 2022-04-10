@@ -4,4 +4,5 @@ Rock,Paper,Scissors is an JAVA Swing based project with a GUI. It is a game whic
 
 # About
 
-My name is Suraj Singh. I'm studying Information Technology (2nd year) in APSIT (Thane). Contact me for any Improvement/Suggestions in this Project. Email: 20104032.surajsingh@gmail.com
+My name is Suraj Singh. I'm studying Information Technology. Contact me for any Improvement/Suggestions in this Project.
+Email: surajsingh04092002@gmail.com
